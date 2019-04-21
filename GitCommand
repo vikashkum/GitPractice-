@@ -1,0 +1,373 @@
+ 1  git init
+    2  cd desktop
+    3  cd testGit
+    4  git init
+    5  exit
+    6  cd C:/
+    7  cd Users/
+    8  cd vvikash/
+    9  cd Desktop/
+   10  cd testGit/
+   11  git status
+   12  cd Testgit/
+   13  git status
+   14  git sttaus'
+   15  git status
+   16  ls
+   17  git pull
+   18  ls
+   19  git status
+   20  git status
+   21  git add File_1
+   22  git status
+   23  git commit - m "adding changes"
+   24  git commit
+   25
+   26  mkdir
+   27  git
+   28  cd desktop
+   29  mkdir netauto
+   30  cd netauto
+   31  vi s1
+   32  cd desktop
+   33  cd netauto
+   34  vi s2
+   35  cd desktop
+   36  cd netauto
+   37  1s
+   38  s1
+   39  ls
+   40  s1
+   41  git init
+   42  la
+   43  git config --global user.name "vikashkum"
+   44  git config --user.email "vikashbhardwaj64@gmail.com"
+   45  git config --global user.email "vikashbhardwaj64@gmail.com"
+   46  git config --list
+   47  git
+   48  git config --list
+   49  cd desktop
+   50  cd netauto
+   51  git config --local user.name "Vikash Kumar"
+   52  git config --local user.email "vikashbhardwaj64@gmail.com"
+   53  git status
+   54  git add s1
+   55  git status
+   56  git --list
+   57  git init
+   58  git add "Reinitialized existing Git repository in C:/Users/vvikash/Desktop/netauto/.git/"
+   59  git add "https://github.com/vikashkum/Testgit.git"
+   60  cd desktop
+   61  exit
+   62  git clone https://github.com/vikashkum/HARSHA-.git
+   63  ssh -keygen
+   64  git ssh -keygen
+   65  ssh-keygen -t rsa -b 4096 -C "vikashkumar.vikash@dxc.com"
+   66  ssh-keygen -t rsa -b 4096 -C "vikashkumar.vikash@dxc.com"
+   67  ssh-keygen -t rsa -b 4096 -C "vikashkumar.vikash@dxc.com"
+   68  ssh-keygen -t rsa -b 4096 -C "vikashkumar.vikash@dxc.com"
+   69  ssh-keygen -p
+   70  ssh-keygen -p
+   71  ssh-keygen -t rsa -b 4096 -C "vikashkumar.vikash@dxc.com"
+   72  ssh-keygen -t rsa -b 4096 -C "vikashkumar.vikash@.com"
+   73  lalusingh
+   74  ssh-keygen -t rsa -b 4096 -C "vikashbhardwaj64@.com"
+   75  ssh-keygen
+   76  git clone https://github.dxc.com/vvikash/Hello_world.git
+   77  git add git@github.dxc.com:vvikash/Hello_world.git
+   78  cd desktop
+   79  git clone git@github.dxc.com:vvikash/Hello_world.git
+   80  cd desktop
+   81  mkdir vikash
+   82  git init
+   83  git add .
+   84  gid add file_2
+   85  git add "file_2"
+   86  cd vikash
+   87  git add .
+   88  git commit -m "First commit"
+   89  git remote add origin3 git@github.dxc.com:vvikash/Hello_world.git
+   90  git remote -v
+   91  git push origin3 master
+   92  cs./
+   93  cd./
+   94  cd.\
+   95  cd desktop
+   96  cd Hello_world
+   97  git init
+   98  git add .
+   99  git commit -m "first project"
+  100  git remote add origin4 git@github.dxc.com:vvikash/Hello_world.git
+  101  git push -u origin master
+  102  git push origin4 master
+  103  cd ./
+  104  git push -u git@github.dxc.com:vvikash/Hello_world.git master
+  105  git init
+  106  git add.
+  107  git add .
+  108  git commit -m "First"
+  109  git add .
+  110  git commit -m "First file"
+  111  git remote add origin git@github.dxc.com:vvikash/Hello_world.git
+  112  git push -u origin master
+  113  ssh-keygen
+  114  ssh-keygen
+  115  ssh-keygen
+  116  cd desktop/hello_world
+  117  cd desktop/Hello_world
+  118  cd desktop
+  119  git init
+  120  git status
+  121  git push -u origin master
+  122  git init
+  123  git add .
+  124  git commit -m "another file"
+  125  cd desktop/Hello_world
+  126  git push  master
+  127  cd desktop/mster
+  128  cd desktop/Hello_world
+  129  git push git@github.dxc.com:vvikash/Hello_world.git master
+  130  git init
+  131  git add .
+  132  git commit -m "python"
+  133  git push # ------------------------------------------------ # master
+  134  cd desktop/hello_world
+  135  git push git@github.dxc.com:vvikash/Hello_world.git master
+  136  git push git@github.dxc.com:vvikash/Hello_world.git Developer
+  137  git push git@github.dxc.com:vvikash/Hello_world.git Developer
+  138  git push git@github.dxc.com:vvikash/Hello_world.git Developer
+  139  git checkout developer
+  140  git checkout python
+  141  git checkout master
+  142  git checkout developer
+  143  git add .
+  144  git commit -m "python"
+  145  git push git@github.dxc.com:vvikash/Hello_world.git develoepr
+  146  cd desktop
+  147  cd ./
+  148  git /
+  149  cd -
+  150  cd ..cd ../
+  151  cd ../
+  152  git clone git@github.dxc.com:vvikash/Hello_world.git
+  153  git status
+  154  git status
+  155  cd desktop/hello_world
+  156  cd hello_world
+  157  git status
+  158  git status
+  159  git log
+  160  pwd
+  161  git log
+  162  cd desktop/hello_world
+  163  git log
+  164  git status
+  165  git commit -m "some changes being made in file1"
+  166  git status
+  167  git add .
+  168  git commit -m "changed made in file1"
+  169  git push origin master
+  170  git rm first
+  171  git rm first.txt
+  172  git rm file1
+  173  git rm file1.txt
+  174  git status
+  175  git reset file1.txt
+  176  git status
+  177  git commit -m "deleted file1"
+  178  git push origin master
+  179  git mv file_3.txt to file3.txt
+  180  git mv file_3.txt file3.txt
+  181  git status
+  182  git add .
+  183  git commit -m "renamed file_3 to file3"
+  184  git push origin master
+  185  git mv python_code.txt vikash/python_notes
+  186  git status
+  187  git add .
+  188  git commit -m "python file moved into vikash folder "
+  189  git push origin master
+  190  echo $VAR_NAME | tr '[:upper:]' '[:lower:]'
+  191  echo $VAR_NAME | tr '[:lower:]' '[:upper:]'
+  192  cat output.txt
+  193  y="THIS IS a TeSt"
+  194  echo "${y,,}"
+  195  cd desktop
+  196  git clone https://github.com/buckyroberts/Source-Code-from-Tutorials.git
+  197  cd hello_world
+  198  git status
+  199  git add .
+  200  git commit -m "first vesion"
+  201  git push origin master
+  202  git diff
+  203  git status
+  204  git add .
+  205  git commit -m "second version"
+  206  git push origin master
+  207  git log
+  208  ir
+  209  git git
+  210  ggi
+  211  git checkout --d4f7cdc8 python_notes.txt
+  212  cd desktop/hello_world
+  213  git log
+  214  git add .
+  215  cd desktop/hello_world
+  216  git status
+  217  git checkout d4f7cdc84a --python_notes.txt
+  218  git checkout d4f7cdc84a -- python_notes.txt
+  219  git checkout d4f7cdc84a -- python_notes
+  220  git checkout d4f7cdc84a --python_notes
+  221  git checkout d4f7cdc -- vikash
+  222  git status
+  223  git log
+  224  cd desktop
+  225  git clone git@github.dxc.com:vvikash/jpetstore.git
+  226  git init
+  227  git add .
+  228  git commit -m "First commit "
+  229  git push git@github.dxc.com:vvikash/jpetstore.git master
+  230  git status
+  231  cd desktop/hello_world
+  232  cd desktop/linix
+  233  cd desktop/linux
+  234  git status
+  235  git add .
+  236  git commit -m "First commit "
+  237  git remote add origin https://github.com/vikashkum/Linux.git
+  238  git push -u origin master
+  239  git push fatal: unable to access 'https://github.com/vikashkum/Linux.git/': error:14094419:SSL routines:ssl3_read_bytes:tlsv1 alert access denied
+  240  git push https://github.com/vikashkum/Linux.git master
+  241  git push https://github.com/vikashkum/Linux.git
+  242  git add origin https://github.com/vikashkum/Linux.git
+  243  git init
+  244  git add .
+  245  git status
+  246  git remote add origin https://github.com/vikashkum/Linux.git
+  247  git push origin master
+  248  git push git@github.com:vikashkum/Linux.git master
+  249  ls
+  250  cd desktop
+  251  mkdir jenkins
+  252  pwd
+  253  ls
+  254  cd jenkins
+  255  git status
+  256  git init
+  257  git add .
+  258  git status
+  259  git commuit -m "First commit"
+  260  git push master origin
+  261  git add origin https://github.com/vikashkum/Linux.git master
+  262  git push https://github.com/vikashkum/Linux.git
+  263  git status
+  264  git push git@github.com:vikashkum/Linux.git
+  265  git push
+  266  git push
+  267  cd
+  268  pwd
+  269  cd /
+  270  pwd
+  271  cd ..
+  272  cd
+  273  pwd
+  274  clear
+  275  cd desktop
+  276  cd git
+  277  clear
+  278  git clone https://github.com/vikashkum/jpetStore.git Developer2
+  279  cd developer2
+  280  vim README.md
+  281  git status
+  282  git status
+  283  cd /desktop/git
+  284  cd desktop/git
+  285  git clone
+  286  git clone https://github.com/vikashkum/jpetStore.git Developer1
+  287  cd developer1
+  288  ls
+  289  vim README.md
+  290  git status
+  291  git commit -m "developer1"
+  292  git add .
+  293  git commit -m "Deveoper1"
+  294  git push origin master
+  295  git add origin https://github.com/vikashkum/Linux.git
+  296  clear
+  297  cd
+  298  cd Desk
+  299  cd deskto
+  300  cd desktop
+  301  cd Linux
+  302  clear
+  303  git init
+  304  git status
+  305  git add .
+  306  git commit -m "seconf commit"
+  307  git remote add origin git@github.com:vikashkum/Deveops-Docs.git
+  308  git push -u origin master
+  309  git push -u origin master
+  310  clear
+  311  /c/Users/vvikash/Desktop/Linux/Linux.rtf /c/Users/vvikash/Desktop/Linux/Linux_commands /c/Users/vvikash/Desktop/Linux/.git /c/Users/vvikash/Desktop/Linux/Deveops-Docs /c/Users/vvikash/Desktop/Linux/file_1 /c/Users/vvikash/Desktop/Linux/Linux.docx
+  312  ssh-keygen -t rsa -b 4896 -C “vikashbhardwaj64@gmail.com”
+  313  cd ..
+  314  cd devops-practice
+  315  cd deveops-docs
+  316  git remote add origin git@github.com:vikashkum/Deveops-Docs.git
+  317  git push -u origin master
+  318  git add .
+  319  git commit -m "first commit"
+  320  git remote add origin1 git@github.com:vikashkum/Deveops-Docs.git
+  321  git push -u origin1 master
+  322  git remote add origin https://github.com/vikashkum/Deveops-Docs.git
+  323  git push -u origin master
+  324  git clone git@github.com:vikashkum/Deveops-Docs.git
+  325  git clone https://github.com/vikashkum/Deveops-Docs.git
+  326  cd
+  327  cd desktop
+  328  git clone https://github.com/vikashkum/Deveops-Docs.git
+  329  cd desktop
+  330  cd GitPractice
+  331  git init
+  332  git remote add origin "git@github.com:vikashkum/GitPractice-.git"
+  333  vim read
+  334  cat red
+  335  cat read
+  336  clear
+  337  touch edu2.txt
+  338  ls
+  339  touch edu1.txt
+  340  ls
+  341  git branch FirstBranch
+  342  git status
+  343  git add -a
+  344  git status
+  345  git add -A
+  346  git status
+  347  git commit -A -m "First "
+  348  Cgit status
+  349  git status
+  350  git commit -a -m "First Commit"
+  351  git status
+  352  git branch Firstfile
+  353  git branch
+  354  clear
+  355  git branch -a
+  356  clear
+  357  git branch -a
+  358  git checkout Firstfile
+  359  ls
+  360  touch edu3.txt
+  361  git checkout master
+  362  ls
+  363  git checkout Firstfile
+  364  git status
+  365  git add .
+  366  git status
+  367  git commit -m "Branch commit"
+  368  git status
+  369  git checkout master
+  370  git merge Firstfile
+  371  ls
+  372  history
+
